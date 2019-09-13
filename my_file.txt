@@ -1,3 +1,4 @@
 my first line of text
 my second line of text
 my third line of text
+a fourth line that shouldn't be here on master
